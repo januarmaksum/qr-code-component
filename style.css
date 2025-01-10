@@ -57,6 +57,10 @@ body {
     margin-bottom: 16px;
 }
 
+.card__description {
+    margin: 0;
+}
+
 @media (min-width: 321px) {
     .card {
         width: 320px;
